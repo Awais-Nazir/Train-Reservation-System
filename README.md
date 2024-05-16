@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=800ubRANj-w
 
 ## Authors
 
-- [Awais Nazir ](https://https://github.com/Awais-Nazir)
+- [Awais Nazir ](https://github.com/Awais-Nazir)
 
 
 ## Feedback
