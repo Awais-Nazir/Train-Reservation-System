@@ -36,8 +36,11 @@ https://www.youtube.com/watch?v=800ubRANj-w
 ## Screenshots
 
 ![1](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/858771bd-f239-4afe-b595-ef0aa4fd63c6)
-
+![2](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/a88da0b7-59ba-423d-b1f9-c58ec20404bd)
+![3](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/5634e0fd-8232-467e-90fe-8aa8e9d8f5a3)
+![4](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/6bde660a-0f65-4bed-aca5-7e34c15c6a9a)
 ![5](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/2714b6a0-4b22-4899-b181-a69b6d08febe)
+![6](https://github.com/Awais-Nazir/Train-Reservation-System/assets/134136736/754ab209-4c20-46e9-b14b-12f3f2762f9c)
 
 
 
