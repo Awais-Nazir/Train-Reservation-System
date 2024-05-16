@@ -31,7 +31,7 @@ To set up and run the project locally, follow these steps:
 ### Steps
 1. **Watch this video**
 follow this video step by step to avoid any errors.
-https://www.youtube.com/watch?v=800ubRANj-w
+https://youtu.be/D1f8ckG8zK8
 
 ## Screenshots
 
